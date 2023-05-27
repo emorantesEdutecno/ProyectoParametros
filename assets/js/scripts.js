@@ -64,7 +64,6 @@ const realizarSaludo = () =>{
 
     let elResultadoSaludo = document.getElementById('txtResultadoSaludo');
     elResultadoSaludo.innerText = respuestaSaludo;
-    
 };
 
 
